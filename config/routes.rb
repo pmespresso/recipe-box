@@ -1,7 +1,10 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :recipes
 
   root "recipes#index"
+=======
+>>>>>>> 738967847471582ca46f85b2aa57a7cedee9e2af
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
